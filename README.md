@@ -38,7 +38,7 @@ Se você tiver ideias ou críticas construtivas, sinta-se à vontade para abrir 
 
 Você pode me encontrar no GitHub para discutir este projeto ou qualquer outro tema, network é a chave 🔑!
 
-No [meu git](https://github.com/Rafasansouza)  terá contatos como E-mail, WhatsApp e Linkedin!
+No meu [GitHub](https://github.com/Rafasansouza)  terá contatos como E-mail, WhatsApp e Linkedin!
 Obrigado 🖤
 
 
