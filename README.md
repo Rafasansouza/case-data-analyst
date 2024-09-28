@@ -1,7 +1,7 @@
 # 📊 Análise Exploratória de Dados - Case de Empresa de Fibra Óptica 🏢📈
 
 ### Sobre o projeto
-Este projeto foi desenvolvido com base em um conjunto de dados fictício de uma empresa de fibra óptica. Meu objetivo aqui foi realizar uma **análise exploratória de dados** e gerar insights valiosos utilizando **Python** e as bibliotecas `pandas`, `matplotlib`, `plotly.express`, entre outras. 🐍
+Este projeto foi desenvolvido com base em um conjunto de dados fictício de uma empresa de fibra óptica. Meu objetivo aqui foi realizar uma **análise exploratória de dados** e gerar insights valiosos utilizando **Python** e as bibliotecas `pandas`, `numpy`, `matplotlib`, `plotly.express`, entre outras. 🐍
 
 Comecei limpando e tratando os dados, removendo colunas e linhas com valores nulos e irrelevantes. Depois, foquei em dados que realmente trazem valor à análise. Além disso, criei novas colunas e manipulei dados para torná-los mais fáceis de visualizar.
 
